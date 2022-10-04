@@ -1,12 +1,17 @@
 h1{
     text-align: center;
-    color: red;
+    color: blue;
 }
-a{
+h2{
+   color: yellow;
+}
+a href{
 justify-content: center;
+text-align: center;
+list-style-position: inside
 }
 p{
-    text-align: center;
+
     color:red;
 }
 ul {
@@ -15,5 +20,8 @@ ul {
     font-weight: 800;
 }
 li{
+    text-align: center;
+}
+ol{
     text-align: center;
 }
