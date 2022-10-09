@@ -1,3 +1,17 @@
+.navbar-brand {
+    color:brown !important;
+}
+.nav-link  {
+    color: white !important;
+}
+#aboutbtn .btn  {
+    margin-top: 25px;
+ }
+ .body{
+    background-color:#E9ECEF;
+}
+
+
 h1{
     text-align: center;
     color: blue;
